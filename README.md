@@ -14,8 +14,8 @@ Jupyter Notebook performing data analysis and modeling on data taken from speed 
 - Calculate how accurately participants predict whether their partners like them
 
 ## Current Phase
-Trained models and scored them on the training and testing sets. Next, calculate how accurately
-people predicted their partner's decision.
+Implemented the code for all of the points above. Next, explain and comment on the results in markdown
+boxes.
 
 ## Requirements and Usage
 - Jupyter notebook/Jupyter lab
