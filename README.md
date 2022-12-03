@@ -14,8 +14,8 @@ Jupyter Notebook performing data analysis and modeling on data taken from speed 
 - Calculate how accurately participants predict whether their partners like them
 
 ## Current Phase
-Found which qualities seem to be the best predictors. Now, create models to predict decisions
-and test their accuracies.
+Trained models and scored them on the training and testing sets. Next, calculate how accurately
+people predicted their partner's decision.
 
 ## Requirements and Usage
 - Jupyter notebook/Jupyter lab
