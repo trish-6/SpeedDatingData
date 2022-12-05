@@ -13,10 +13,6 @@ Jupyter Notebook performing data analysis and modeling on data taken from speed 
 - Describe differences between men and women in the qualities that predict their decisions
 - Calculate how accurately participants predict whether their partners like them
 
-## Current Phase
-Implemented the code for all of the points above. Next, explain and comment on the results in markdown
-boxes.
-
 ## Requirements and Usage
 - Jupyter notebook/Jupyter lab
 - Tested on Python 3.10.0
